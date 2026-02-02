@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Yemi 👋
 
-<!--
-**Vichen142/Vichen142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst 
+I am a detail-oriented analyst focused on transforming raw data into clear, actionable insights. I specialize in data cleaning and visualization, and I am currently expanding my technical toolkit with Python and SQL.
 
-Here are some ideas to get you started:
+🛠 My Toolkit
+* Analysis: Microsoft Excel (Pivot Tables, VLOOKUP)
+* Visualization: [Excel, Power BI, SQL]
+* Currently Learning: Python (Pandas/NumPy) & SQL Querying
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Featured Project
+* Raw Dataset Transformation: From Unstructured Data to Actionable Business Intelligence.
+
+📫 How to reach me: [https://www.linkedin.com/in/opeyemi-henry-21827b29b/]
+Email : victorvict15@gmail.com
