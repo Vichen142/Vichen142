@@ -17,6 +17,6 @@ To transform this unstructured IMDB dataset into a clean, analysis-ready format,
 * Data Type Conversion: Cleaned the `Income` and `Time Duration` columns by removing non-numeric characters like `$`, `c`, and `NULL` so they could be used for calculations.
 * Data Normalization: Converted the movie duration from minutes into hours for better visualization.
 * Empty Row Removal: Identified and removed blank records to ensure data integrity.
-
+ 
 📫 How to reach me: [https://www.linkedin.com/in/opeyemi-henry-21827b29b/]
 Email : victorvict15@gmail.com
