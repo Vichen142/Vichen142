@@ -1,4 +1,4 @@
-Hi, I'm Yemi 👋
+Hi, I'm Opeyemi 👋
 
 📊 Aspiring Data Analyst 
 I am a detail-oriented analyst focused on transforming raw data into clear, actionable insights. I specialize in data cleaning and visualization, and I am currently expanding my technical toolkit with Python and SQL.
