@@ -8,8 +8,8 @@ I build machine learning pipelines, analytics dashboards and deployed data apps 
 
 <br>
 
-[![Portfolio](https://github.com/Vichen142/Portfolio)
-[![LinkedIn](https://www.linkedin.com/in/opeyemi-henry-21827b29b/?skipRedirect=true)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0E0E10?style=for-the-badge&logo=githubpages&logoColor=8DB4FF)](https://github.com/Vichen142/Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E0E10?style=for-the-badge&logo=linkedin&logoColor=8DB4FF)](https://www.linkedin.com/in/opeyemi-henry-21827b29b/?skipRedirect=true)
 [![Email](https://img.shields.io/badge/Email-0E0E10?style=for-the-badge&logo=gmail&logoColor=FF6B8B)](mailto:victorvict15@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-0E0E10?style=for-the-badge&logo=readme&logoColor=FF6B8B)](https://github.com/Vichen142/Portfolio/blob/main/HENRY_OPEYEMI_FlowCV_Resume_2026-07-02.pdf)
 
@@ -19,7 +19,7 @@ I build machine learning pipelines, analytics dashboards and deployed data apps 
 
 ## About me
 
-I'm a **Computer Engineering based in Lagos, Nigeria**. My hardware coursework taught me to think in systems, and my own projects taught me to train predictive models and ship them as working apps people can open and use.
+I'm a **Computer Engineer based in Lagos, Nigeria**. My hardware coursework taught me to think in systems, and my own projects taught me to train predictive models and ship them as working apps people can open and use.
 
 - Building end-to-end ML projects, from data cleaning and modelling to a deployed web app
 - Completed an **Applied Data Science & Machine Learning internship at Codveda** (EDA, data cleaning, supervised regression, unsupervised clustering)
@@ -36,8 +36,7 @@ I'm a **Computer Engineering based in Lagos, Nigeria**. My hardware coursework t
 | **[Credit Card Fraud Detection](https://github.com/Vichen142/credit-card-fraud-detection)** | End-to-end fraud classifier built for severe class imbalance (SMOTE), evaluated on Precision-Recall instead of accuracy. Compares Logistic Regression, Random Forest and XGBoost. | Python, Scikit-Learn, XGBoost, Imbalanced-Learn |
 | **[Diabetes Risk Assessment Copilot](https://github.com/Vichen142/diabetes-diagnostic-app)** | Full-stack app that classifies diabetes risk and pairs it with a conversational AI copilot for personalised guidance. | Python, Reflex, Groq API |
 | **[Customer Churn Engine](https://github.com/Vichen142/customer-churn-predictive-model)** | Binary classifier that predicts which customers are likely to leave and returns an actionable risk probability. | Python, Pandas, XGBoost, Streamlit |
-| **[Blinkit Grocery Analytics](https://github.com/Vichen142/REPO-NAME)** | Interactive sales dashboard on retail performance, outlet size and fat-content purchasing preferences. | Power BI, Excel, DAX |
-| **[Data Cleaning Dashboard](https://github.com/Vichen142/REPO-NAME)** | Cleans a messy healthcare appointments dataset with Power Query (nulls, duplicates, mixed date formats, negative values, currency formats) and presents it in Power BI. | Power BI, Power Query |
+| **[Blinkit Grocery Analytics](https://github.com/Vichen142/Portfolio/blob/main/blinkit_dashboard.png)** | Interactive sales dashboard on retail performance, outlet size and fat-content purchasing preferences. | Power BI, Excel, DAX |
 
 ---
 
